@@ -2,7 +2,7 @@
 
 Debatten om tømming av kloakk til sjø har kokt i mange tråder på det webbaserte forumet "Båtplassen" opp gjennom de siste årene.  Dette høringssvaret er ført i pennen av en privatperson, men er forsøkt utformet slik at flest mulig av forumets medlemmer kan stå inne for innholdet.
 
-Høringen bygger på et premiss om at det finnes en generell betalingsvilje for levering av båtseptik dersom det innføres forbud mot tømming av sjø i Oslofjorden, samt at brukerbetaling ved levering av båtseptik er i tråd med prinsippet "forurenser betaler".  Vi tror dette er et falskt premiss, da svært mange vil fortsette som de alltid har gjort og tømme gratis til sjø uavhengig av et forbud.
+Høringen bygger på et premiss om at det finnes en generell betalingsvilje for levering av båtseptik dersom det innføres forbud mot tømming av sjø i Oslofjorden, samt at brukerbetaling ved levering av båtseptik er i tråd med prinsippet "forurenser betaler".  Vi tror dette er et falske premisser, da svært mange vil fortsette som de alltid har gjort og tømme gratis til sjø uavhengig av et forbud.
 
 ## Effekten av et forbud
 
