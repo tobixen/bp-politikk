@@ -19,8 +19,8 @@ Det er en viss form for polarisering i miljøet mellom gruppe 1 og gruppe 4.  Gr
 
 * Utslippene fra fritidsflåten er svært små sammenlignet med  landbruk og overløpsutslipp
 * Totalkostnaden forbundet med tømming av septik over dekk og levering til kloakkrenseanlegg er forholdsvis høy
-* Et forbud mot utslipp av septik strengt tatt bare er symbolpolitikk uten praktiske konsekvenser
-* Bruk av tømmestasjoner gir relativt liten mening dersom det ikke følges opp med gode renseanlegg, for Oslofjorden betyr det spesifikt et renseanlegg som også fjerner nitrogen.
+* Et forbud mot utslipp av septik er symbolpolitikk uten praktiske konsekvenser
+* Bruk av tømmestasjoner gir relativt liten mening dersom det ikke er koblet opp mot gode renseanlegg, for Oslofjorden betyr det spesifikt renseanlegg som også fjerner nitrogen.
 
 Akkurat som at røykeloven unektelig har hatt en stor holdningsendrende effekt i Norge, så kan kanskje også et forbud mot utslipp av septik ha en viss holdningsendrende effekt.  På sikt vil kanskje gruppe 4 vokse og gruppe 1 synke etter at et forbud er introdusert.  Det er imidlertid en vesentlig forskjell her, røyking på offentlig sted er veldig synlig, dumping av septik kan gjøres veldig diskret.  Risikoen for å bli oppdaget er omtrent ikke tilstedeværende, risikoen for å bli straffet enda mindre.  Det er derfor en utopi å tro at et forbud vil bli overholdt i noen særlig grad.  Det er en rekke land som har innført generelt forbud mot tømming av septik i kystnære strøk - det er vår oppfatning at det meste av båtseptik går rett i sjøen til tross for disse forbudene, samt at "tømming av septik" blir et tema man ikke prater høyt om.  Eksempelvis er det er ingen kø for å få tømt septik i Sverige.  I Tyrkia kontrolleres det at man benytter tømmestasjoner, det medfører at mange betaler for å tømme en tom tank både når de forlater havn og når de kommer tilbake.  Vi anser det som et et grunnleggende prinsipp at lover og forskrifter utformes med utgangspunkt i at flest mulig vil følge dem.  Det er uheldig med lover og forskrifter som ikke blir fulgt, det medfører en generell redusert respekt for lover og regler.
 
@@ -30,7 +30,7 @@ Det finnes i dag relativt mange tømmestasjoner i Oslofjorden - de fleste av dis
 
 Dersom man ønsker å vesentlig redusere utslipp fra fritidsflåten, så vil trolig et forbud kombinert med avgift for å benytte tømmestasjon være lite effektivt.  Med gruppene som er nevnt innledningsvis vil et forbud treffe gruppe 2 og gruppe 3.  Gruppe 3 vil være villige til å betale for å kvitte seg med kloakk, gruppe 2 vil generelt være villig til å benytte tømmestasjoner dersom det er hensiktsmessig og gratis. Et forbud vil antageligvis på sikt medføre at gruppe 1 blir mindre mens gruppe 4 vokser, men for å redusere mengden lovbrytere (og særlig treffe gruppe 2) er det et minimum at det følges opp med tilstrekkelig med tømmestasjoner som er enkle å bruke, fungerer, blir vedlikeholdte og er lett tilgjengelige.
 
-Her er det også et informasjonsbehov - det er behov for en effektiv tjeneste for å informere båtbrukere om hvor tømmestasjoner finnes, og hvorvidt de er tilgjengelige, åpne og vedlikeholdt.  Det finnes til en viss grad tjenester på nett i dag, men ingen av dem er komplette og offisielle, mange blir vedlikeholdt på dugnadsbasis og noen avhenger av kontinuerlig innsats fra enkeltpersoner.  Noen må ta ansvar for å vedlikeholde en offentlig tilgjengelig database.  Vi tar ikke stilling til hvem som skal gjøre dette eller hvordan det skal finansieres, vi bare konstanterer at dette er viktig.
+Her er det også et informasjonsbehov - det er behov for en effektiv tjeneste for å informere båtbrukere om hvor tømmestasjoner finnes, og hvorvidt de er tilgjengelige, åpne og vedlikeholdt.  Det finnes til en viss grad tjenester på nett i dag, men ingen av dem er komplette og offisielle, mange blir vedlikeholdt på dugnadsbasis og noen avhenger av kontinuerlig innsats fra enkeltpersoner.  Noen må ta ansvar for å vedlikeholde en offentlig tilgjengelig database.
 
 Dersom man har valget mellom å tømme septiken midtfjords eller å ta den med seg for tømming til en travel gjestehavn i en lun bukt, så er det særs viktig at man kan føle seg trygg på at septiktasjonen faktisk er åpen, tilgjengelig og fungerende.  Slik er det ikke alltid i dag.  Tidvis vil gjestehavnsoperatør tillate at båter fortøyer på utsiden av tømmestasjonen, dersom den ligger i gjestehavn.  Av og til er det rett og slett for grunt eller utilgjengelig for at store seilbåter kan legge til.  Tidvis kommer man til en stasjon som er i ustand eller av ulike årsaker er vanskelig eller umulig å bruke.
 
@@ -46,9 +46,9 @@ Når pumpestasjoner eksisterer, er det en klar fordel at de blir brukt.  Det er 
 
 * Det må være et samsvar mellom rettigheten til å tømme septik over dekk og plikten til å ikke tømme til sjø.  Vi foreslår derfor at forskriften baserer seg på tilgjengelighet på tømmefasiliteter.  I aller enkleste form kan et septiktømmeforbud gjelde for områder i en viss radius til nærmeste tømmestasjon - deretter kan man sette opp tilbud slik at man i praksis dekker hele eller nesten hele Oslofjorden med et tømmeforbud.  Dersom tømmestasjonene av ulike årsaker (f.eks. årstid eller for lite dybde ved tømmestasjonen) ikke kan benyttes, så opphører forbudet, og 300-metersgrensa vil være gjeldende.  Denne regelen kan med fordel erstatte alt av kommunale/lokale og regionale forbud.
 
-* Det må finnes en offisiell, åpen database med informasjon om alle tømmestasjonene - og noen må ta ansvar for å vedlikeholde den.  Hvem som skal ta ansvar og hvordan dette skal finansiere vil vi foreløbig ikke mene noe om.
+* Det må finnes en offisiell, åpen database med informasjon om alle tømmestasjonene - og noen må ta ansvar for å vedlikeholde den.  Hvem som skal ta ansvar og hvordan dette skal finansiere vil vi foreløbig ikke mene noe om, men det finnes allerede løsninger basert på frivillig innsats.
 
 ## Referanser
 
 * Tråd med utkast til høringsuttalelse: https://baatplassen.no/i/topic/169305-septikutslipp-forslag-til-kollektiv-innsending-av-lovforslagh%C3%B8ringsuttalelse/
-* Poll for/mot høringsuttalelsen: xxx
+* Spørreundersøkelse for/mot høringsuttalelsen: xxx
