@@ -1,15 +1,20 @@
 # Høringssvar vedrørende forskrift om forbud mot utslipp av kloakk fra fritidsbåter i Oslofjorden
 
-Debatten om tømming av kloakk til sjø har kokt i mange tråder på det webbaserte forumet "Baatplassen.no" opp gjennom de siste årene.  Dette høringssvaret er ført i pennen av en privatperson, men har vært diskutert på forumet og antas å ha stor støtte blant forumets medlemmer.  Båtplassen er Norges største webbaserte båtforum, over 7 millioner sideoppslag i juli 2023, rundt hundre tusen registrerte konto.  Debattråden angående høringsuttalelsen har over 4000 visninger, har totalt W innlegg fra X aktive debattanter.  En spørreundersøkelse på om folk støttet høringsuttalelsen fikk Y svar, hvorav Z stiller seg bak høringsuttalelsen - dette er trolig representativt for tusenvis av forumets mer passive medlemmer.  Jeg vil dermed hevde å skrive høringsutkastet på vegne av mange.
+Debatten om tømming av kloakk til sjø har kokt i mange tråder på det webbaserte forumet "Baatplassen.no" opp gjennom de siste årene.  Dette høringssvaret er ført i pennen av en privatperson, men har vært diskutert på forumet og antas å ha stor støtte blant forumets medlemmer.  Båtplassen er Norges største webbaserte båtforum, over 7 millioner sideoppslag i juli 2023, rundt hundre tusen registrerte konto.  Debattråden angående høringsuttalelsen har over 4000 visninger, har totalt W innlegg fra X aktive debattanter.  En spørreundersøkelse på om folk støttet høringsuttalelsen fikk Y svar, hvorav Z stiller seg bak høringsuttalelsen - dette er trolig representativt for mange av forumets mer passive medlemmer også.  Jeg vil dermed hevde å skrive høringsutkastet på vegne av mange.
 
-Vi tror at de av båtbrukerene som benytter toalettet ombord og har septiktank grovt kan deles opp i fire grupper:
+Flertallet av båter i Oslofjorden er nok små åpne båter uten toalett.  Det er også en signifikant mengde båteiere som bare bruker båten på dagstur og bare gjør sine toalettærender på land.  Enkelte båter mangler også septiktank eller tømmemulighet over dekk, og særlig i små båter og verneverdige båter kan det være vanskelig å ettermontere slikt.  Et forbud mot utslipp til sjø bør ha unntak for slike båter.
 
+Vi tror at denne mengden båteiere grovt kan deles i fem:
+
+0) De som ikke har toalett ombord, eller ikke bruker toalettet ombord.
 1) De som alltid har dumpet til sjø og vil fortsette å gjøre dét
 2) De som respekterer et forbud dersom det er gratis og enkelt å besøke tømmestasjon
 3) De som respekterer et forbud og er villig til å betale for å bruke septiktømmestasjoner
 4) De som er veldig bevisst på egne og andres utslipp, alltid tømmer over dekk når det er mulig, og insisterer på at alle andre skal gjøre det samme.
 
-Det er vanskelig å si noe om størrelsen på gruppene, men mitt inntrykk er at gruppe (1) og (2) utgjør majoriteten.
+Gruppe 0 faller litt utenom, men det er verd å tenke på at toalettbehov kan komme brått på, særlig dersom man er på tur med barn eller ved helseproblemer.  Å holde seg til man kommer til et landtoalett er ikke alltid en reell mulighet.
+
+Det er vanskelig å si noe om størrelsen på de øvrige gruppene, men mitt inntrykk er at gruppe 1 og 2 utgjør majoriteten.
 
 Høringen bygger på et premiss om at det finnes en generell betalingsvilje for levering av båtseptik dersom det innføres forbud mot tømming av septik i Oslofjorden, samt at brukerbetaling ved levering av båtseptik er i tråd med prinsippet "forurenser betaler".  Vi tror dette er et falske premisser.  I gruppe 2 er betalingsviljen begrenset, og de som dumper gratis (men ulovlig) til sjø blir ikke truffet av prinsippet "forurenser betaler".
 
@@ -46,7 +51,7 @@ Når pumpestasjoner eksisterer, er det en klar fordel at de blir brukt.  Det er 
 
 * Det må være et samsvar mellom rettigheten til å tømme septik over dekk og plikten til å ikke tømme til sjø.  Vi foreslår derfor at forskriften baserer seg på tilgjengelighet på tømmefasiliteter.  I aller enkleste form kan et septiktømmeforbud gjelde for områder i en viss radius til nærmeste tømmestasjon - deretter kan man sette opp tilbud slik at man i praksis dekker hele eller nesten hele Oslofjorden med et tømmeforbud.  Dersom tømmestasjonene av ulike årsaker (f.eks. årstid eller for lite dybde ved tømmestasjonen) ikke kan benyttes, så opphører forbudet, og 300-metersgrensa vil være gjeldende.  Denne regelen kan med fordel erstatte alt av kommunale/lokale og regionale forbud.
 
-* Det må finnes en offisiell, åpen database med informasjon om alle tømmestasjonene - og noen må ta ansvar for å vedlikeholde den.  Hvem som skal ta ansvar og hvordan dette skal finansiere vil vi foreløbig ikke mene noe om, men det finnes allerede løsninger basert på frivillig innsats.
+* Det må finnes en offisiell, åpen database med informasjon om alle tømmestasjonene - og noen må ta ansvar for å vedlikeholde den.
 
 ## Referanser
 
