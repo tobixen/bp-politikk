@@ -2,9 +2,9 @@
 
 Debatten om tømming av kloakk til sjø har kokt i mange tråder på det webbaserte forumet "Baatplassen.no" opp gjennom de siste årene.  Dette høringssvaret er ført i pennen av en privatperson, men har vært diskutert på forumet og antas å ha stor støtte blant forumets medlemmer.  Båtplassen er Norges største webbaserte båtforum, over 7 millioner sideoppslag i juli 2023, rundt hundre tusen registrerte konto.  Debattråden angående høringsuttalelsen har over 4000 visninger, har totalt W innlegg fra X aktive debattanter.  En spørreundersøkelse på om folk støttet høringsuttalelsen fikk Y svar, hvorav Z stiller seg bak høringsuttalelsen - dette er trolig representativt for mange av forumets mer passive medlemmer også.  Jeg vil dermed hevde å skrive høringsutkastet på vegne av mange.
 
-Flertallet av båter i Oslofjorden er nok små åpne båter uten toalett.  Det er også en signifikant mengde båteiere som bare bruker båten på dagstur og bare gjør sine toalettærender på land.  Enkelte båter mangler også septiktank eller tømmemulighet over dekk, og særlig i små båter og verneverdige båter kan det være vanskelig å ettermontere slikt.  Et forbud mot utslipp til sjø bør ha unntak for slike båter.
+Flertallet av båter i Oslofjorden er nok små åpne båter uten toalett.  Det er også en signifikant mengde båteiere som bare bruker båten på dagstur og bare gjør sine toalettærender på land.  Enkelte båter mangler også septiktank eller tømmemulighet over dekk, og særlig i små båter og verneverdige båter kan det være vanskelig å ettermontere slikt.  Et forbud mot utslipp til sjø bør kanskje ha unntak for slike båter.
 
-Vi tror at denne mengden båteiere grovt kan deles i fem:
+Vi tror at båtbrukerene grovt kan deles i fem:
 
 0) De som ikke har toalett ombord, eller ikke bruker toalettet ombord.
 1) De som alltid har dumpet til sjø og vil fortsette å gjøre dét
@@ -33,7 +33,7 @@ Det finnes i dag relativt mange tømmestasjoner i Oslofjorden - de fleste av dis
 
 ## Utfordringer med lovlig tømming av septiktank
 
-Dersom man ønsker å vesentlig redusere utslipp fra fritidsflåten, så vil trolig et forbud kombinert med avgift for å benytte tømmestasjon være lite effektivt.  Med gruppene som er nevnt innledningsvis vil et forbud treffe gruppe 2 og gruppe 3.  Gruppe 3 vil være villige til å betale for å kvitte seg med kloakk, gruppe 2 vil generelt være villig til å benytte tømmestasjoner dersom det er hensiktsmessig og gratis. Et forbud vil antageligvis på sikt medføre at gruppe 1 blir mindre mens gruppe 4 vokser, men for å redusere mengden lovbrytere (og særlig treffe gruppe 2) er det et minimum at det følges opp med tilstrekkelig med tømmestasjoner som er enkle å bruke, fungerer, blir vedlikeholdte og er lett tilgjengelige.
+Dersom man ønsker å vesentlig redusere utslipp fra fritidsflåten, så vil trolig et forbud kombinert med avgift for å benytte tømmestasjon være lite effektivt.  Med gruppene som er nevnt innledningsvis vil et forbud treffe gruppe 2 og gruppe 3.  Gruppe 2 vil imidlertid fortsette å tømme til sjø om man skal måtte betale for å bruke tømmestasjonene. Et forbud vil antageligvis på sikt medføre at gruppe 1 blir mindre mens gruppe 4 vokser, men for å redusere mengden lovbrytere (og særlig treffe gruppe 2) er det et minimum at det følges opp med tilstrekkelig med tømmestasjoner som er enkle å bruke, fungerer, blir vedlikeholdte og er lett tilgjengelige.
 
 Her er det også et informasjonsbehov - det er behov for en effektiv tjeneste for å informere båtbrukere om hvor tømmestasjoner finnes, og hvorvidt de er tilgjengelige, åpne og vedlikeholdt.  Det finnes til en viss grad tjenester på nett i dag, men ingen av dem er komplette og offisielle, mange blir vedlikeholdt på dugnadsbasis og noen avhenger av kontinuerlig innsats fra enkeltpersoner.  Noen må ta ansvar for å vedlikeholde en offentlig tilgjengelig database.
 
