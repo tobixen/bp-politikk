@@ -14,7 +14,7 @@ Vi tror at båtbrukerene grovt kan deles i fem:
 
 Gruppe 0 faller litt utenom, men det er verd å tenke på at toalettbehov kan komme brått på, særlig dersom man er på tur med barn eller ved helseproblemer.  Å holde seg til man kommer til et landtoalett er ikke alltid en reell mulighet.
 
-Det er vanskelig å si noe om størrelsen på de øvrige gruppene, men mitt inntrykk er at gruppe 1 og 2 utgjør majoriteten.
+Det er vanskelig å si noe om størrelsen på de øvrige gruppene, men vårt inntrykk er at gruppe 1 og 2 utgjør majoriteten.
 
 Høringen bygger på et premiss om at det finnes en generell betalingsvilje for levering av båtseptik dersom det innføres forbud mot tømming av septik i Oslofjorden, samt at brukerbetaling ved levering av båtseptik er i tråd med prinsippet "forurenser betaler".  Vi tror dette er et falske premisser.  I gruppe 2 er betalingsviljen begrenset, og de som dumper gratis (men ulovlig) til sjø blir ikke truffet av prinsippet "forurenser betaler".
 
