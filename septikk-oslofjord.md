@@ -43,7 +43,7 @@ Et annet problem er at de fleste tømmestasjonene er stengt utenfor sesong.  Nå
 
 I dag finnes det en rekke forbud (utover 300m-grensa) som er vedtatt på kommunalt plan, de følger ofte kommunegrenser og er vanskelig å forholde seg til for den jevne fritidsbåtfører.  Det er også noe meningsløst at det er forbudt på den ene siden av en ganske vilkårlig kommunegrense, og tillatt på den andre siden av grensen.  Slik sett vil et forbud som gjelder hele Oslofjorden virke mer meningsfullt og være enklere å forholde seg til.  Flere av oss er imidlertid bekymret for at et slikt forbud etterhvert skal spre seg til resten av landet.  Langs store deler av kysten vil det ikke være kostnadsmessig forsvarlig å ha en høy tetthet av tømmestasjoner, og miljøkostnaden av å bruke drivstoff for å besøke en tømmestasjon langt unna vil nok være høyere enn miljøgevinsten av å få kjørt kloakken gjennom rensestasjon.
 
-Når pumpestasjoner eksisterer, er det en klar fordel at de blir brukt.  Det er meningsløst å bruke av våre felles midler på å bygge fasiliter som benyttes av et fåtall, mens mange dumper septik helt lovlig tre hundre meter unna tømmestasjonen.
+Når pumpestasjoner eksisterer, er det en klar fordel at de blir brukt.  Det er meningsløst å bruke penger på fasiliter som benyttes av et fåtall, mens mange dumper septik helt lovlig tre hundre meter unna tømmestasjonen.
 
 ## Konkrete forslag
 
